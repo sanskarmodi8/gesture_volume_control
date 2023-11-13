@@ -4,7 +4,7 @@
 
 This project utilizes the MediaPipe and OpenCV libraries in Python to create a real-time gesture-based volume control system. The hand-tracking module detects the user's hand gestures, and based on the position of the hand landmarks, adjusts the system volume accordingly.
 
-![result.gif](result.gif)
+![resultGIF](result.gif)
 
 ## Features
 
